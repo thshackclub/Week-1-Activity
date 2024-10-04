@@ -1,0 +1,37 @@
+body {
+  background-color: #E2E890;
+}
+
+#container {
+  background-color: #F4A3B9;
+  border: 10px solid #A7F3B2;
+  height: 500px;
+  width: 1000px;
+
+  margin: 0 auto;
+  text-align: center;
+}
+
+#btn {
+  margin:50px auto;
+  height: 50px;
+  width: 300px;
+  font-size: 20px;
+  background-color: #E5E9A2;
+}
+
+#output {
+  margin: 0 auto;
+  font-size: 23px;
+  color: black;
+  text-align: center;
+}
+
+#inspiration {
+
+  margin:50px auto;
+  height: 50px;
+  width: 300px;
+  font-size: 20px;
+  background-color: #E5E9A2;
+}
